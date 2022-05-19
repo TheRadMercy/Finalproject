@@ -95,9 +95,6 @@ def run_alexa():
         talk('opening gmail')
         webbrowser.open("gmail.com")
 
-    elif'open uni' in command:
-        webbrowser.open("candidat.groupe-insa.fr/candidat")
-
     elif'open insta' in command:
         webbrowser.open_new_tab('instagram.com')
 
@@ -146,14 +143,11 @@ def run_alexa():
         talk('your ip adress is' + ip)
 
 
-    elif 'date' in command:
-        talk('can you shut the fuck up ?')
-
     elif 'how is your day going' in command:
         talk('it is going good and you?')
 
     elif 'motivation' in command:
-        talk(' youre the only one that matter dodnt give uo on your dreams')
+        talk(' youre the only one that matter dodnt give up on your dreams')
 
     elif 'joke' in command:
         talk(pyjokes.get_joke())
