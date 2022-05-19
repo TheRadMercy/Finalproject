@@ -1,5 +1,5 @@
 # Finalproject
-hello Mr Ayli I am Daniel Rahme here you can find my final project
+hello Mr Ayli I am Daniel Rahme here you can find the final project that i did with my friend Christian Haddad
 So to execute the code you need to have access to the following imports:
 
 ##import sys##
